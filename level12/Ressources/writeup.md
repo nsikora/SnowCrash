@@ -4,9 +4,9 @@ Nous avons commence par analyse le script perl, nous avons remarque qu'il pouvai
 etre appelle par curl ou par le navigateur.
 
 Nous avons remarque que au debut du script les argument passes en parametres sont 
-traite notamment mit en uppercase.
+traite notamment mit en majuscule.
 
-Nous avons donc creer un fichier /tmp/script qui contient:
+Nous avons donc creer un fichier /tmp/SCRIPT qui contient:
 
 `getflag > /tmp/flag`
 
