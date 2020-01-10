@@ -1,7 +1,3 @@
-### 1 - Flag00
-
-FLAG: x24ti5gi3x0ol2eh4esiuxias
-
 Pour commencer, nous allons chercher tout les fichiers appartenant a l'utilisateur flag00 avec la commande:
 
 "find / -user flag00"

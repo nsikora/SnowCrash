@@ -1,7 +1,3 @@
-### 3 - Flag02
-
-FLAG: kooda2puivaav1idi4f57q8iq
-
 On dans notre dossier un fichier se terminant par un .pcap.
 Il s'agit d'une capture reseau. On va donc avoir besoin d'un logiciel nomme wireshark pour l'analyser.
 
